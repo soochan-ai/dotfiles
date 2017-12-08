@@ -7,17 +7,8 @@ Installation
 ------------
 
 ### Clone and Install!
-
-One-liner (if, you trust):
-
 ```bash
-curl -fsSL https://dotfiles.wook.kr/etc/install | bash
-```
-
-An alternative:
-
-```bash
-git clone --recursive https://github.com/wookayin/dotfiles.git ~/.dotfiles
+git clone --recursive https://github.com/soochan-ai/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles && python install.py
 ```
 <!--
